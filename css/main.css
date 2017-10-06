@@ -19,3 +19,12 @@ header {
   font-size: 1.5rem
   color: #3f1622
 }
+
+ol {
+  font-size: 1.25rem
+  font-family: 'PT Sans', sans-serif;
+}
+
+body {
+  font-family: font-family: 'PT Serif', serif;
+}
