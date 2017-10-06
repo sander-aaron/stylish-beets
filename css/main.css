@@ -25,3 +25,9 @@ ol {
 body {
   font-family: 'PT Serif', serif;
 }
+
+figure {
+  text-align: center;
+  font-style: italic;
+  font-size: .75em;
+}
