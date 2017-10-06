@@ -8,7 +8,7 @@ img {
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   color: #3f1622;
   font-weight: bold;
@@ -17,18 +17,19 @@ h1 {
 a,
 a:link {
   font-weight: bold;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.25rem;
   color: #8f2440;
 }
 
 ol {
-    list-style: none;
+  list-style: none;
 }
 
 main {
-  font-family: 'PT Serif', serif;
-  font-size: 1.125rem
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+  font-weight: normal;
 }
 
 figure {
@@ -43,12 +44,12 @@ blockquote {
 }
 
 cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 h2 {
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 article {
