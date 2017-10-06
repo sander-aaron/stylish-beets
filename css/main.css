@@ -1,0 +1,21 @@
+html {
+  background-color: #c9b5ab;
+  line-height: 1.5
+}
+
+img {
+  width: 100%;
+}
+
+a,
+a:link {
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+header {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem
+  color: #3f1622
+}
