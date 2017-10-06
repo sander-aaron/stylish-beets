@@ -54,3 +54,11 @@ h2 {
 article {
   font-weight: bold;
 }
+
+dt {
+  font-style: italic;
+}
+
+dd {
+  font-weight: bold;
+}
