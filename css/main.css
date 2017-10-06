@@ -22,6 +22,10 @@ a:link {
   color: #8f2440;
 }
 
+a:hover {
+  color: #3f1622;
+}
+
 ol {
   list-style: none;
 }
